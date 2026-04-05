@@ -48,6 +48,7 @@ Ce dataset est identique à celui utilisé dans le projet SQL, ce qui permet de 
 ### 5. Relation chiffre d’affaires / rentabilité
 - Analyse de la corrélation entre volume de ventes et marge
 - Visualisation via un scatter plot
+correlation-question.jpg
 
 ### 6. Analyse client
 - Calcul du panier moyen par client
